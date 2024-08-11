@@ -1,0 +1,11 @@
+This dataset contains data for more than 9.5K cars sale in Ukraine. Most of them are used cars so it opens the possibility to analyze features related to car operation. 
+This is a subset of all car data in Ukraine. Using this We will analyze the various parameters of used car sales in Ukraine.
+
+Questions:
+1.Which type of cars are sold maximum?
+2.What is the co-relation between price and mileage?
+3.How many cars are registered?
+4.Price distribution between registered and non-registered cars?
+5.What is the car price distribution based on Engine Value?
+6.Which Engine Type of cars users preferred maximum?
+7.Distribution of Price?
